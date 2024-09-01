@@ -8,8 +8,8 @@ st.set_page_config(
 
 def display_rain():
     rain(
-        emoji="🍓🍓",
-        font_size=230,
+        emoji="🍓",
+        font_size=120,
         falling_speed=4,
         animation_length="infinite",
     )
